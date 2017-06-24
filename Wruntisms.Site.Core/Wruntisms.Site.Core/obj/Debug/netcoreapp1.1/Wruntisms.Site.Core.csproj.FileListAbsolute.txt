@@ -1,0 +1,18 @@
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.deps.json
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.runtimeconfig.json
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.runtimeconfig.dev.json
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\obj\Debug\netcoreapp1.1\Wruntisms.Site.Core.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\obj\Debug\netcoreapp1.1\Wruntisms.Site.Core.AssemblyInfo.cs
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.pdb
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\obj\Debug\netcoreapp1.1\Wruntisms.Site.Core.dll
+c:\users\jacob\documents\visual studio 2017\Projects\Wruntisms.Site.Core\Wruntisms.Site.Core\obj\Debug\netcoreapp1.1\Wruntisms.Site.Core.pdb
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.deps.json
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.runtimeconfig.json
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.runtimeconfig.dev.json
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.dll
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\bin\Debug\netcoreapp1.1\Wruntisms.Site.Core.pdb
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\obj\Debug\netcoreapp1.1\Wruntisms.Site.Core.csprojResolveAssemblyReference.cache
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\obj\Debug\netcoreapp1.1\Wruntisms.Site.Core.AssemblyInfo.cs
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\obj\Debug\netcoreapp1.1\Wruntisms.Site.Core.dll
+C:\Wruntisms\Wruntisms.Site.Core\Wruntisms.Site.Core\obj\Debug\netcoreapp1.1\Wruntisms.Site.Core.pdb
