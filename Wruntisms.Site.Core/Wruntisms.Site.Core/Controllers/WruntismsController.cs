@@ -49,20 +49,20 @@ namespace Wruntisms.Site.Core.Controllers
         
         // POST: api/Wruntisms
         [HttpPost]
-        public void Post([FromBody]string value)
+        public void Post(Wruntism wrunt)
         {
             var model = GetModel();
             model.FixIds();
-            model.AddOrUpdateWruntism(value);
+            model.AddOrUpdateWruntism(wrunt.Message);
             model.SaveToFile();
         }
         
         // PUT: api/Wruntisms/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
+        [HttpPut]
+        public void Put(Wruntism wrunt)
         {
             var model = GetModel();
-            model.AddOrUpdateWruntism(value, id);
+            model.AddOrUpdateWruntism(wrunt.Message, wrunt.Id);
             model.SaveToFile();
         }
 
@@ -75,11 +75,11 @@ namespace Wruntisms.Site.Core.Controllers
         }
         
         // DELETE: api/Wruntisms/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        [HttpDelete]
+        public void Delete(Wruntism wrunt)
         {
             var model = GetModel();
-            model.RemoveWruntismById(id);
+            model.RemoveWruntismById(wrunt.Id);
             model.SaveToFile();
         }
 
